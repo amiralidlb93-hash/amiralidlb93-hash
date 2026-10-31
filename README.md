@@ -1,13 +1,13 @@
 # 👋 Hey, I'm AmirAli!
 
-💻 Developer in progress | 🎮 Gamer | 🚀 Tech Enthusiast
+💻 Developer in Progress | 🎮 Gamer | 🚀 Tech Enthusiast
 
-I enjoy building websites, trying new technologies, and creating cool projects.
+I enjoy building websites, exploring new technologies, and creating cool projects.
 
 ### 💫 About Me
 - 🔭 Working on web development projects
 - 🌱 Learning Python, JavaScript, HTML & CSS
-- 🎯 Interested in software, technology and gaming
+- 🎮 Interested in gaming and technology
 - ⚡ Always learning something new!
 
 ### 🛠️ Tech Stack
@@ -23,7 +23,6 @@ I enjoy building websites, trying new technologies, and creating cool projects.
 
 | Project | Description |
 |---|---|
-| 🌦️ Atmos Weather | A modern weather application |
 | 🕒 VoltClock | A customizable clock and time tools |
 | 📱 Smart Phone Pro | An interactive smartphone web project |
 | 🧟 Zombie Survival | A browser-based survival game |
