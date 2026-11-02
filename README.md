@@ -23,10 +23,6 @@ I enjoy building websites, exploring new technologies, and creating cool project
 
 | Project | Description |
 |---|---|
-### 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
 | 🦸 [SuperManPanel](https://github.com/amiralidlb93-hash/SuperManPanel) | A VPN management panel project built for Railway deployment |
 | ⚡ [AmneziaWG Config Generator](https://github.com/amiralidlb93-hash/-AmneziaWG-Config-Generator) | A browser-based tool for generating AmneziaWG configurations |
 | 📚 [Vajegardon](https://github.com/amiralidlb93-hash/vajegardon) | A bilingual Persian-English 3D dictionary with quizzes and flashcards |
