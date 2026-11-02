@@ -23,11 +23,15 @@ I enjoy building websites, exploring new technologies, and creating cool project
 
 | Project | Description |
 |---|---|
-| 🕒 VoltClock | A customizable clock and time tools |
-| 📱 Smart Phone Pro | An interactive smartphone web project |
-| 🧟 Zombie Survival | A browser-based survival game |
-| 💻 Web Terminal | A web-based terminal project |
+### 🚀 Featured Projects
 
+| Project | Description |
+|---|---|
+| 🦸 [SuperManPanel](https://github.com/amiralidlb93-hash/SuperManPanel) | A VPN management panel project built for Railway deployment |
+| ⚡ [AmneziaWG Config Generator](https://github.com/amiralidlb93-hash/-AmneziaWG-Config-Generator) | A browser-based tool for generating AmneziaWG configurations |
+| 📚 [Vajegardon](https://github.com/amiralidlb93-hash/vajegardon) | A bilingual Persian-English 3D dictionary with quizzes and flashcards |
+| 👻 [Nights Of Ghosts](https://github.com/amiralidlb93-hash/Nights-Of-Ghosts) | A Persian Halloween browser game built with Canvas and JavaScript |
+| 🏠 [AmirAli HQ](https://github.com/amiralidlb93-hash/amirali-hq) | A personal website featuring pinned projects and a live repository list |
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amiralidlb93-hash&show_icons=true&theme=tokyonight&hide_border=true)
