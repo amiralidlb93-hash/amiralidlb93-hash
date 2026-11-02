@@ -34,14 +34,18 @@ I enjoy building websites, exploring new technologies, and creating cool project
 | 🏠 [AmirAli HQ](https://github.com/amiralidlb93-hash/amirali-hq) | A personal website featuring pinned projects and a live repository list |
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amiralidlb93-hash&show_icons=true&theme=tokyonight&hide_border=true)
+### 📊 GitHub Stats & Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amiralidlb93-hash&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=amiralidlb93-hash&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=amiralidlb93-hash&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="49%" />
+</p>
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=amiralidlb93-hash&theme=tokyonight&hide_border=true)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amiralidlb93-hash&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ⭐ Thanks for visiting my profile!
