@@ -1,4 +1,6 @@
-# 👋 Hey, I'm AmirAli!
+ <div align="center">
+  <img src="./banner.png" width="100%" />
+</div>#  👋 Hey, I'm AmirAli!
 
 💻 Developer in Progress | 🎮 Gamer | 🚀 Tech Enthusiast
 
